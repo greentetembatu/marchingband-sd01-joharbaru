@@ -1369,17 +1369,17 @@ p a:hover {
   }
 
   .input-group label {
-    font-size: 13px;
+    font-size: 18px;
   }
 
   .input-group input,
   .input-group textarea {
-    font-size: 13px;
+    font-size: 18px;
     padding: 7px;
   }
 
   .btn {
-    font-size: 15px;
+    font-size: 18px;
     padding: 9px;
   }
 }
@@ -1418,12 +1418,12 @@ p a:hover {
   }
 
   .input-group label {
-    font-size: 12px;
+    font-size: 16px;
   }
 
   .input-group input,
   .input-group textarea {
-    font-size: 12px;
+    font-size: 16px;
     padding: 6px;
   }
 
@@ -1432,7 +1432,7 @@ p a:hover {
   }
 
   .btn {
-    font-size: 14px;
+    font-size: 16px;
     padding: 8px;
   }
 }
@@ -1471,12 +1471,12 @@ p a:hover {
   }
 
   .input-group label {
-    font-size: 11px;
+    font-size: 15px;
   }
 
   .input-group input,
   .input-group textarea {
-    font-size: 11px;
+    font-size: 15px;
     padding: 5px;
   }
 
@@ -1485,7 +1485,7 @@ p a:hover {
   }
 
   .btn {
-    font-size: 12px;
+    font-size: 15px;
     padding: 7px;
   }
 }
@@ -1502,17 +1502,17 @@ p a:hover {
   }
 
   .input-group label {
-    font-size: 10px;
+    font-size: 14px;
   }
 
   .input-group input,
   .input-group textarea {
-    font-size: 10px;
+    font-size: 14px;
     padding: 4px;
   }
 
   .btn {
-    font-size: 11px;
+    font-size: 14px;
     padding: 6px;
   }
 }
